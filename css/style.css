@@ -92,7 +92,7 @@ box-shadow: 0px 0px 45px -29px rgba(0,0,0,1);
 /* card */
 /* target */
 #target{
-  background-image: url('/gilan.jpg');
+  background-image: url('/img/gilan.jpg');
   background-size: cover;
   display: flex;
   flex-direction: column;
